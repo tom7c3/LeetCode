@@ -1,0 +1,7 @@
+*.layout
+*.cbp
+*.depend
+
+*/bin/
+*/obj/
+*/version.h
