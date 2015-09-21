@@ -1,6 +1,8 @@
 *.layout
 *.cbp
 *.depend
+*.h~
+*.cpp~
 
 */bin/
 */obj/
