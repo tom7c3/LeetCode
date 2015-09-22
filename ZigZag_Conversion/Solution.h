@@ -33,6 +33,8 @@ class Solution
             colPtr = rowPtr;
         }
 
-        return string(result, s.size());
+        string endString(result, s.size());
+        delete [] result;
+        return endString;
     }
 };
